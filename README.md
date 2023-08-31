@@ -1,5 +1,5 @@
 # 21-deep-learning-challenge
-Build a model for a non profitfoundation that will analyze applicant data with the goal of predicting the candidates with the best chances of success to invest in.
+Build a model for a nonprofit foundation that will analyze applicant data with the goal of predicting the candidates with the best chances of success to invest in.
 
 ## Data Preprocessing
 
